@@ -1,2 +1,2 @@
 # Java MOOC Helsinki 2020
- The updated version of Helsinki's MOOC on Java Programming
+Recently, the University of Helsinki launched the English Version of the 2020's Java Programming MOOC. I'm tired right now, let me finish this readme later.
